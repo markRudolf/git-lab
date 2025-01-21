@@ -49,7 +49,7 @@ Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean
 Answer 10: No, I never pulled it
-Answer 11:To https://github.com/markRudolf/git-lab.git
+Answer 11:Brings up the error because we havent pulled. To https://github.com/markRudolf/git-lab.git
  ! [rejected]        main -> main (fetch first)
 error: failed to push some refs to 'https://github.com/markRudolf/git-lab.git'
 hint: Updates were rejected because the remote contains work that you do not
