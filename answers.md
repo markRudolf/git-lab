@@ -31,3 +31,20 @@ Changes to be committed:
   (use "git rm --cached <file>..." to unstage)
         new file:   README.md
         new file:   answers.md
+Answer 7: On branch master
+nothing to commit, working tree clean
+Answer 8:commit 5e4b4eafcdbf3e1d5de1b206c2cbb31bbae4ea79 (HEAD -> master)
+Author: Mark Hinderegger <mrhinderegger@gmail.com>
+Date:   Tue Jan 21 10:56:19 2025 -0500
+
+    Initial commit
+
+commit 09ee56956234992a975936201b1e91c1f7ce889f
+Author: Mark Hinderegger <mrhinderegger@gmail.com>
+Date:   Tue Jan 21 10:51:15 2025 -0500
+
+    Inital commit
+Answer 9: On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
